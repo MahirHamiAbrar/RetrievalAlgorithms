@@ -8,13 +8,16 @@
     - [GeeksForGeeks Blog](https://www.geeksforgeeks.org/nlp/bag-of-words-bow-model-in-nlp/) (with code example)
     
 ## [TF-IDF](https://en.wikipedia.org/wiki/Tf%E2%80%93idf) [Term Frequency - Inverse Document Frequency]
+ - Prerequisites:
+    - [BoW Model](#bow-model-bag-of-words-model)
     
  - Resources:
     - [GeeksForGeeks Blog](https://www.geeksforgeeks.org/machine-learning/understanding-tf-idf-term-frequency-inverse-document-frequency/) (with code example)
- - Prerequisites:
-    - [BoW Model](#bow-model-bag-of-words-model)
 
 ## [BM25](https://en.wikipedia.org/wiki/Okapi_BM25) [BM for "Best Match"]
+ - Prerequisites:
+    - [BoW Model](#bow-model-bag-of-words-model)
+    
  - Resources:
     - [Medium Post](https://medium.com/@readwith_emma/understanding-okapi-bm25-document-ranking-algorithm-70d81adab001)
     - [GeeksForGeeks Blog](https://www.geeksforgeeks.org/nlp/what-is-bm25-best-matching-25-algorithm/)
